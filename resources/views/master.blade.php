@@ -37,7 +37,7 @@
 </head>
 
 <body
-    class="bg-[url('assets/img/background.jpg')] bg-repeat bg-contain w-[1440px] h-[900px] flex flex-col items-center justify-items-center  p-7 text-white">
+    class="bg-[url('assets/img/background.jpg')] bg-repeat bg-contain w-[1440px] h-[900px] flex flex-col items-center justify-items-center mx-auto my-0  p-7 text-white">
     @yield('nav')
 
     <!-- Contenue -->

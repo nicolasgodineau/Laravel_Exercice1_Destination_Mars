@@ -8,7 +8,7 @@
     class="bg-[url('assets/img/home.webp')] bg-no-repeat bg-auto bg-center w-[1400px] h-[1000px] rounded-[30px] pt-8 ">
     @section('nav')
     <section
-        class="backdrop-blur rounded-[30px] bg-[#0000003d] w-[1000px] flex flex-col items-center justify-evenly gap-9 p-8 px-8 my-0 mx-auto">
+        class="backdrop-blur-xl rounded-[30px] bg-[#0000003d] w-[1000px] flex flex-col items-center justify-evenly gap-9 p-8 px-8 my-0 mx-auto">
         <h1 class="fs-6 font-Revalia text-small text-white text-center uppercase">le premier pas vers Mars</h1>
         <article class="shadow-3xl rounded-[30px]">
             <img class="h-72 rounded-t-[30px] object-cover" src="assets/img/CityMars.png" alt="Maison 1">

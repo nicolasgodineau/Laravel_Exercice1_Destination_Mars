@@ -5,9 +5,9 @@
 
 @section('content')
 <main
-    class="bg-[url('assets/img/home.webp')] bg-no-repeat bg-auto bg-center  w-[100%] h-[100%] flex flex-col items-center justify-between rounded-[30px] pt-8">
+    class="bg-[url('assets/img/home.webp')] bg-no-repeat bg-auto bg-center w-[100%] h-[100%] flex flex-col items-center justify-between rounded-[30px] pt-8">
     @section('nav')
-    <div class="w-full flex flex-col items-center text-center backdrop-blur bg-[#f5f5f52e]">
+    <div class="w-full flex flex-col items-center text-center backdrop-blur-xl bg-[#0000002e]">
         <h1 class="font-ArchivoBlack text-big uppercase">Découvrez Mars</h1>
         <h2 class="font-Revalia text-small uppercase">Et si votre prochaine maison était sur Mars ?</h2>
     </div>

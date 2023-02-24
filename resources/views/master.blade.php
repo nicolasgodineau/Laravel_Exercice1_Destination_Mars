@@ -38,9 +38,8 @@
 
 <body
     class="bg-[url('assets/img/background.jpg')] bg-repeat bg-contain w-[1440px] h-[100vh] flex flex-col items-center justify-items-center mx-auto my-0  p-7 text-white">
-    @yield('nav')
 
-    <!-- Contenue -->
+    <!-- Contenu -->
     @yield('content')
 
     <script src="{{ asset ('js/scripts.js')}}"></script>

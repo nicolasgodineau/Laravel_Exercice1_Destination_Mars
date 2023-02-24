@@ -4,7 +4,7 @@
 
 @section('content')
 <main
-    class="bg-[url('assets/img/home.webp')] bg-no-repeat bg-auto bg-center w-[100%] h-[100%] flex flex-col items-center gap-[10%] rounded-[30px] pt-8 ">
+    class="bg-no-repeat bg-cover w-[100%] h-[100%] flex flex-col items-center justify-start rounded-[30px] pt-5" style="background-image: url({{ url('assets/img/home.webp')}});">
     <nav class="flex flex-row items-center w-full px-8" id="mainNav">
         <div class="grow">
             <a class="flex flex-row gap-2 items-center" href="home"><img class="w-4 invert" src="assets/img/favicon.ico"

@@ -500,6 +500,9 @@ video {
 .h-\[250px\] {
   height: 250px;
 }
+.h-\[90vh\] {
+  height: 90vh;
+}
 .h-fit {
   height: -moz-fit-content;
   height: fit-content;
@@ -545,9 +548,6 @@ video {
 }
 .justify-center {
   justify-content: center;
-}
-.justify-between {
-  justify-content: space-between;
 }
 .justify-evenly {
   justify-content: space-evenly;
@@ -670,9 +670,6 @@ video {
 }
 .pt-5 {
   padding-top: 1.25rem;
-}
-.pt-8 {
-  padding-top: 2rem;
 }
 .text-center {
   text-align: center;

@@ -35,3 +35,7 @@ For this project, we are asked to create a static website with Laravel
 ## Others
 
 The images for this project were created with AI Midjourney
+
+![Page about](./screenshot/index.jpg)
+![Page about](./screenshot/house.jpg)
+![Page about](./screenshot/about.jpg)
